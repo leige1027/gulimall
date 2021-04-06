@@ -1,5 +1,9 @@
 # gulimall
 分布式商城
+基础篇、中级、高级都完啦，
+sentinel开始往后的代码没写，也就是一直到秒杀服务，代码全部写完。
+https://github.com/wangweicode/gulimall。
+修改后的全部sql、静态页面、前端代码包括后端代码也上传一下，我自己写完了，当然全部数据都在
 
 ## Docker
 
